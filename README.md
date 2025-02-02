@@ -120,5 +120,5 @@ Projeye katkıda bulunmak isterseniz, pull request gönderebilir veya önerileri
 
 ---
 
-**📌 Hazırlayan:** [Adınızı Buraya Yazın]
+
 
